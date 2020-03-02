@@ -1,6 +1,6 @@
 # BEBASID
 
-This repository is now in its own Github organization
+Proyek diarsipkan
 
 Repositori ini sekarang berada di bawah organisasi Github-nya sendiri
 
