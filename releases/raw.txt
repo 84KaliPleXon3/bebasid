@@ -2353,3 +2353,9 @@ Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini su
 
 # [141JAV.COM]
 104.31.7.180 141jav.com www.141jav.com
+
+# [PSARIPS.ONE]
+104.27.168.213 psarips.one
+
+# [FAP-NATION.COM]
+104.25.72.6 fap-nation.com
